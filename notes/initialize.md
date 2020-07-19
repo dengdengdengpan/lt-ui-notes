@@ -22,8 +22,8 @@
 
 - JavaScript 包管理工具以及初始化
 
-  - 选用 nom 作为包管理工具
-  - `nom init` 进行初始化
+  - 选用 npm 作为包管理工具
+  - `npm init` 进行初始化
 
 - 使用 Vue 框架
 
