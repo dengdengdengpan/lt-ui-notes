@@ -11,11 +11,10 @@
 ### 知识点
 
 - `Vue.component()` 使用
-
 - `:root` 伪类
 - CSS 变量
 - `var()` 函数
 - `:link`、`:visitied`、`:hover`、`:focus`、`:active` 伪类
 - `npm install -S` 和 `npm install -D` 区别
-- `Vue 不同版本`
-- `Vue 单文件组件及其命名风格`
+- Vue 不同版本
+- Vue 单文件组件及其命名风格
