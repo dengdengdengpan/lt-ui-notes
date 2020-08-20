@@ -45,3 +45,5 @@
 - CSS 属性选择器
 - HTML disabled 属性
 - CSS 动画使用
+- `Vue.extend()`
+- DOM 节点操作
