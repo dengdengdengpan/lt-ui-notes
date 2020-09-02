@@ -14,7 +14,7 @@
 
     ```html
     <template>
-    	<w-button>默认按钮</w-button>
+      <w-button>默认按钮</w-button>
       <w-button type="primary">主要按钮</w-button>
       <w-button type="primary" shape="round">圆角按钮</w-button>
       <w-button type="primary" shape="circle">圆形按钮</w-button>
