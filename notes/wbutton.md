@@ -2,7 +2,7 @@
 
 ### 基本流程
 
-- 按钮组件需求分析：使用用例图分析
+- 需求分析：使用用例图分析
   
   - 基本状体分析：可点击状态、禁用状态、loading 状态、hover 状态、按下状态
   
@@ -24,7 +24,7 @@
     </template>
     ```
 
-  - 按钮 `props`：`type`、`icon`、`shape`、`loading`、`disabled`
+  - 按钮 `props`：`type`、`icon`、`shape`、`loading`、`disabled`、`iconPosition`
 
 - 单元测试
 
