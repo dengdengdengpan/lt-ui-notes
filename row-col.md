@@ -32,7 +32,9 @@
 
    - `WRow` 组件 props：`gutter`、`justify`、`align`、`wrap`
 
-   - `WCol` 组件 props：`span`、`offset`、`order`、`pull`、`push`
+   - `WCol` 组件 props：`span`、`offset`、`order`、`pull`、`push`、以及响应式相关
+
+   - **在实现 props 时，在 CSS 中是无法知道 JS props 的变化。解决的方法就是将 JS props 的变化反映在 HTML attribute 中（一般是 class），然后 CSS 通过 class 来设置不同的样式变化。**
 
 4. 单元测试
 
