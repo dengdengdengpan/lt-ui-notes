@@ -6,5 +6,6 @@
 3. [框架搭建](./framework-building.md)
 4. [WButton](./w-button.md)
 5. [WRow & WCol](./w-row-col.md)
-5. [Layout 基本布局组件](./layout.md)
+5. [WLayout](./w-layout.md)
+6. [WMessage](./w-message.md)
 
