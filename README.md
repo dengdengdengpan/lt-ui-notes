@@ -7,7 +7,8 @@
 3. [Icon](./icon.md)
 4. [Button](./button.md)
 5. [ButtonGroup](./button-group.md)
-6. [Row & Col](./row-col.md)
-7. [Layout](./layout.md)
-8. [Message](./message.md)
+6. [Link](./link.md)
+7. [Row & Col](./row-col.md)
+8. [Layout](./layout.md)
+9. [Message](./message.md)
 
