@@ -8,7 +8,7 @@
 4. [Button](./button.md)
 5. [ButtonGroup](./button-group.md)
 6. [Link](./link.md)
-7. [Row & Col](./row-col.md)
+7. [Grid](./grid.md)
 8. [Layout](./layout.md)
 9. [Message](./message.md)
 
