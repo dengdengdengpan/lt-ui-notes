@@ -11,5 +11,6 @@
 7. [Grid](./grid.md)
 8. [Layout](./layout.md)
 9. [Divider](./divider.md)
-10. [Message](./message.md)
+10. [Space](./space.md)
+11. [Message](./message.md)
 
